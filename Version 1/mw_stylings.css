@@ -1,0 +1,16 @@
+/* Minesweeper Stylings */
+
+body {
+	background-color: #FFEFD5;
+	text-align: center;
+}
+#title{
+	position: center;
+}
+p{
+	font-family: Monospace;
+	font-size: 15px;
+	text-align: left;
+	background-color: #E6E6FA;
+	padding: 2px;
+}
